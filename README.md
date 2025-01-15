@@ -2,7 +2,7 @@
 
 
 ### Hi there 👋, my name is Babul Chowdhury
-#### WebDesigner and WordPress Theme Customaizer
+#### WebDesigner and WordPress Developer
 
 
 Hello Dear,
